@@ -1540,6 +1540,7 @@
       { "x": -7, "y": -1, "part": "roof" },
       { "x": -7, "y": 0, "parts": [ "frame_horizontal_rear", "door_trunk", "door_motor" ] },
       { "x": -7, "y": 1, "parts": [ "frame_horizontal_rear", "door_trunk", "door_motor" ] },
+      { "x": -7, "y": 0, "part": "muffler" },
       { "x": -7, "y": 2, "parts": [ "frame_se", "halfboard_se" ] },
       { "x": -7, "y": 2, "part": "roof" }
     ],
